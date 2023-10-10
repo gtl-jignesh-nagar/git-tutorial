@@ -1,9 +1,10 @@
 Add feature-1 file
 
-<<<<<<< HEAD
+
 Additional changes on feature
 
 Additional changes2 on feature
-=======
+
 Additional changes on feature which is commited in main
->>>>>>> 0064895ab50327bae40019751f657e7ae0d5dcec
+
+Additional changes3 on feature
